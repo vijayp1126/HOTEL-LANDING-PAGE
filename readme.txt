@@ -34,7 +34,7 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 VIJAY
-vijayp1126@gmail.com
+vijay1126p@gmail.com
 +91 8754113416
 www.linkedin.com/in/vijay2611
 links: https://hotel-vijay.netlify.app/
